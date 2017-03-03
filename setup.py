@@ -2,8 +2,8 @@ from distutils.core import setup
 
 setup(
     name='english-syllable',
-    packages=['english-syllable'],  # this must be the same as the name above
-    version='0.1',
+    packages=['english_syllable'],  # this must be the same as the name above
+    version='0.11',
     description='Count the syllables in your text',
     author='Mahmoud Lababidi',
     author_email='lababidi+py@gmail.com',
